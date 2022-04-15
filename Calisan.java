@@ -80,7 +80,7 @@ public class Calisan {
     }
 
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        
         Calisan[] liste = { new Calisan(1111111111l, "Ali Deniz", 23455.0),
                 new Calisan(2222222222l, "Derya Gunes", 5696.70), new Calisan(3333333333l, "Mehmet Mavi", 2750.0),
                 new Calisan(4444444444l, "Ada Yesil", 7255), new Calisan(5555555555l, "Yagmur Kirmizi", 2753),
