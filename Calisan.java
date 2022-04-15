@@ -1,8 +1,8 @@
 public class Calisan {
-    private long sicilNo; /* sicil no */
-    private String adSoyad; /* ad soyad */
-    private double satisTutari; /* satış tutarı */
-    private double prim; /* prim */
+    private long sicilNo; 
+    private String adSoyad; 
+    private double satisTutari; 
+    private double prim; 
 
     public Calisan(long sicilNo, String adSoyad, double satisTutari) {
         this.sicilNo = sicilNo;
